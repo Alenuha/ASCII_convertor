@@ -1,5 +1,5 @@
 # this simple script converts text to ASCII characters and back
-# uses UTF-16
+
 from curses.ascii import isdigit
 
 keep_going = True
